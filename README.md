@@ -1,2 +1,51 @@
-# Produtividade-com-Bootstrap
- Exercícios de Bootstrap
+## [AlgaWorks](https://www.algaworks.com/)
+### Produtividade com Bootstrap
+- [Produtividade com Bootstrap | AlgaWorks](https://www.algaworks.com/meus-cursos/workshop-bootstrap)
+- [Código Fonte no GitHub](https://github.com/algaworks/workshop-bootstrap3)
+## Conteúdo
+- Introdução ao HTML
+- Introdução ao CSS
+- Preparando o ambiente de desenvolvimento
+- O que é Bootstrap?
+- Criando uma página simples
+- Tipografia - Cabeçalhos e estilização de texto
+- Tipografia - Transformação, abreviação e citação
+- Tipografia - Listas
+- Chrome Developer Tools
+- O que é RWD?
+- Layout responsivo
+- Sistema de grid
+- Imagem rotativa e centralização vertical
+- Imagem responsiva e formulário de login
+- Criando uma barra de navegação
+- Criando uma Dropdown
+- Image shapes
+- Adicionando um Breadcrumb e campo de busca
+- Criando uma tabela responsiva
+- Adicionando Tooltips
+- Fazendo paginação
+- Criando e abrindo uma modal
+- Continuando com formulários: mais componentes de entrada
+- Validando formulários
+- Informando erros com alerts
+- Adicionando abas
+- Usando o Collapse
+- Fixando elementos com Affix
+- Criando um Carousel
+- Customizando o Bootstrap
+- Componente de terceiro: seleção de datas
+## Para Começar
+- Criar pasta "Aula Bootstrap";
+- Acessar o site do Bootstrap;
+- Download Bootstrap;
+- Decompactar o conteúdo do download na pasta "Aula Bootstrap";
+- Na pasta css, apagar todos os arquivos com exceção do "bootstrap.min.css";
+- Na pasta js, também apagar todos os arquivos com exceção do "bootstrap.min.js";
+- [Acessar o site do JQuery(eu acessei https://code.jquery.com/jquery-2.2.4.min.js)] (https://code.jquery.com/jquery-2.2.4.min.js);
+- Download the compressed, production jQuery;
+- Usar Sublime Text 3;
+- No Sublime Text, selecionar Project/Add Folder To Project, escolhendo a pasta "Aula Bootstrap";
+### Material de Apoio
+- [Atributos e Seletores - CSS] (https://developer.mozilla.org/pt-BR/)
+- [Site do Bootstrap] (https://https://getbootstrap.com/docs/3.3/)
+- [Site od JQuery] (https://jquery.com/)
